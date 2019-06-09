@@ -20,7 +20,10 @@
 ## 使用手机二维码扫一扫
 
 ### 微信扫一扫 
-![image](https://github.com/ohyeah521/NoAds-For-YouTube/raw/master/images/wechat.jpg)
+![image](https://tva1.sinaimg.cn/large/007rAy9hgy1g36qhzr9prj30u0155q4p.jpg)
 
 ### 支付宝扫一扫
-![image](https://github.com/ohyeah521/NoAds-For-YouTube/raw/master/images/alipay.jpg)
+![image](https://tva1.sinaimg.cn/large/007rAy9hgy1g36qh4f2gaj30q914uq4t.jpg)
+
+### 支付宝红包
+![image](https://tva1.sinaimg.cn/large/007rAy9hgy1g36qjcgqg8j30fs0nodhv.jpg)
