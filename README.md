@@ -1,5 +1,5 @@
 # HexinNoAds
-基于Xposed框架的《同花顺至尊版》v9.68.35，去广告，破解Level2模块
+基于Xposed框架的《同花顺至尊版》v9.68.35，去广告，破解部分Level2功能模块
 
 ## 同花顺至尊版v9.68.35 下载地址：
 - 链接: https://pan.baidu.com/s/1xaE7tJHFCgw7JnxQwBz0uQ 提取码: ib8k 
